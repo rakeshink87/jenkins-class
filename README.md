@@ -1,7 +1,7 @@
-asdfadsf# time-tracker
+# time-tracker
 Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Good Afternoon1 Student1s!!!
-as
+Good Night Student1s!!!
+
